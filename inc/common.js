@@ -128,7 +128,7 @@ jQuery("html").niceScroll({
     cursorwidth: 15,
     autohidemode: false,
     background: '#ededed',
-    cursorcolor: '#4abc96',
+    cursorcolor: '#2a5d79',
     cursorborderradius: 0,
     cursorborder: 'none'
 });
@@ -243,19 +243,6 @@ jQuery(window).load(function() {
     });
 });
 
-/*================================================
- Twitter script
- ================================================*/
-jQuery(document).ready(function() {
-    jQuery('.flexslider-twitter').tweet({
-        modpath: 'inc/tweet/twitter/index.php',
-        count: 3,
-        username: 'envato',
-        loading_text: 'loading twitter feed...',
-        template: "{avatar}{text}{join}{time}"
-    });
-});
-
 
 jQuery(window).load(function() {
     'use strict';
@@ -335,22 +322,27 @@ jQuery('.m-posts').waypoint(function() {
         jQuery('.nav li:nth-child(3)').addClass('active');
 });
 
-jQuery('.testimonials-paralax').waypoint(function() {
+/*jQuery('.testimonials-paralax').waypoint(function() {
+        jQuery('.nav li').removeClass('active');
+        jQuery('.nav li:nth-child(4)').addClass('active');
+});
+*/
+jQuery('#expertise').waypoint(function() {
         jQuery('.nav li').removeClass('active');
         jQuery('.nav li:nth-child(4)').addClass('active');
 });
 
-jQuery('#skills').waypoint(function() {
+jQuery('#clients').waypoint(function() {
         jQuery('.nav li').removeClass('active');
         jQuery('.nav li:nth-child(5)').addClass('active');
 });
 
-jQuery('#gallery').waypoint(function() {
+jQuery('#testimonials').waypoint(function() {
         jQuery('.nav li').removeClass('active');
         jQuery('.nav li:nth-child(6)').addClass('active');
 });
 
-jQuery('#team').waypoint(function() {
+jQuery('#app').waypoint(function() {
         jQuery('.nav li').removeClass('active');
         jQuery('.nav li:nth-child(7)').addClass('active');
 });
