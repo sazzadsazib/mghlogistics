@@ -1,6 +1,6 @@
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2) format('woff2');
@@ -8,7 +8,8 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTZX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
@@ -16,7 +17,8 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTRWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
@@ -24,7 +26,8 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTaaRobkAwv3vxw3jMhVENGA.woff2) format('woff2');
@@ -32,7 +35,8 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTf8zf_FOSsgRmwsS7Aa9k2w.woff2) format('woff2');
@@ -40,7 +44,8 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTT0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
@@ -48,7 +53,8 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Open Sans';
+ /* font-family: 'Open Sans';*/
+ font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
@@ -56,7 +62,8 @@
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzK-j2U0lmluP9RWlSytm3ho.woff2) format('woff2');
@@ -64,7 +71,8 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzJX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
@@ -72,7 +80,8 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzBWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
@@ -80,7 +89,8 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzKaRobkAwv3vxw3jMhVENGA.woff2) format('woff2');
@@ -88,7 +98,8 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzP8zf_FOSsgRmwsS7Aa9k2w.woff2) format('woff2');
@@ -96,7 +107,8 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzD0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
@@ -104,7 +116,8 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Open Sans';
+  /*font-family: 'Open Sans';*/
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",'sans-serif','FONT ISTORE';
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');

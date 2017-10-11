@@ -209,9 +209,9 @@ p {
 }
 
 .form-button {
-    background-color: #f36363;
+    background-color: #549db1;
     border: none;
-    border: 2px solid #f36363;
+    border: 2px solid #549db1;
     transition: all 0.2s linear;
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;
@@ -220,8 +220,6 @@ p {
 .form-button:hover {
     background-color: transparent;
 }
-
-
 .l-map-section .m-heading-border {
     background-color: #d66969;
 }

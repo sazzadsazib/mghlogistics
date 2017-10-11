@@ -312,15 +312,15 @@ jQuery('#page-section').waypoint(function() {
         jQuery('.nav li:first-child').addClass('active');
 });
 
-jQuery('.what-we-do-section').waypoint(function() {
+jQuery('#whatwedo').waypoint(function() {
         jQuery('.nav li').removeClass('active');
         jQuery('.nav li:nth-child(2)').addClass('active');
 });
 
-jQuery('.m-posts').waypoint(function() {
+/*jQuery('.m-posts').waypoint(function() {
         jQuery('.nav li').removeClass('active');
         jQuery('.nav li:nth-child(3)').addClass('active');
-});
+});*/
 
 /*jQuery('.testimonials-paralax').waypoint(function() {
         jQuery('.nav li').removeClass('active');
@@ -329,27 +329,27 @@ jQuery('.m-posts').waypoint(function() {
 */
 jQuery('#expertise').waypoint(function() {
         jQuery('.nav li').removeClass('active');
-        jQuery('.nav li:nth-child(4)').addClass('active');
+        jQuery('.nav li:nth-child(3)').addClass('active');
 });
 
 jQuery('#clients').waypoint(function() {
         jQuery('.nav li').removeClass('active');
-        jQuery('.nav li:nth-child(5)').addClass('active');
+        jQuery('.nav li:nth-child(4)').addClass('active');
 });
 
 jQuery('#testimonials').waypoint(function() {
         jQuery('.nav li').removeClass('active');
-        jQuery('.nav li:nth-child(6)').addClass('active');
+        jQuery('.nav li:nth-child(5)').addClass('active');
 });
 
 jQuery('#app').waypoint(function() {
         jQuery('.nav li').removeClass('active');
-        jQuery('.nav li:nth-child(7)').addClass('active');
+        jQuery('.nav li:nth-child(6)').addClass('active');
 });
 
 jQuery('#contact').waypoint(function() {
         jQuery('.nav li').removeClass('active');
-        jQuery('.nav li:nth-child(8)').addClass('active');
+        jQuery('.nav li:nth-child(7)').addClass('active');
 });
 
 
