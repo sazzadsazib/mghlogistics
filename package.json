@@ -1,0 +1,28 @@
+{
+  "name": "mgh",
+  "version": "1.0.2",
+  "description": "updated by Sazzadul Islam",
+  "main": "index.html",
+  "scripts": {
+    "test": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sazzadsazib/mghlogistics.git"
+  },
+  "keywords": [
+    "Static",
+    "website",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Sazzadul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sazzadsazib/mghlogistics/issues"
+  },
+  "homepage": "https://github.com/sazzadsazib/mghlogistics#readme",
+  "dependencies": {
+    "scrollreveal": "^3.3.6"
+  }
+}
