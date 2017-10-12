@@ -131,7 +131,7 @@ h2 {
 
 .flexslider-splash .flex-direction-nav li a {
     text-indent: 99999px;
-    background:url('arrow.png') no-repeat center;
+    background:url('../images/arrow.png') no-repeat center;
     padding: 40px;
     border-radius: 50%;
     opacity: 1;
@@ -253,7 +253,7 @@ h2 {
 }
 
 .slide-background {
-    background: url('slider-1.png' ) repeat center;
+    background: url('../images/slider-1.png' ) repeat center;
 }
 
 /*
@@ -300,7 +300,7 @@ h2 {
     left: -50%;
     width: 30px;
     height: 30px;
-    background: url('../img/arrow.png') no-repeat;
+    background: url('../images/arrow.png') no-repeat;
     bottom: 140px;
     -webkit-animation: arrowanimation 2s; /* Chrome, Safari, Opera */
     animation: arrowanimation 2s;
@@ -510,7 +510,7 @@ h2 {
 }
 
 .paralax-section1 {
-    background: url('magic-pixel.png') repeat top left, url('BG.jpg');
+    background: url('../images/magic-pixel.png') repeat top left, url('../images/BG.jpg');
 }
 
 .what-we-do-section h6 {
@@ -529,11 +529,11 @@ h2 {
 }
 
 .paralax-section2 {
-    background: url('magic-pixel.png') repeat top left, url('testimonials.jpg');
+    background: url('../images/magic-pixel.png') repeat top left, url('../images/testimonials.jpg');
 }
 
 .l-twitter-section {
-    background: url('magic-pixel.png') repeat top left, url('background-twitter.jpg');
+    background: url('../images/magic-pixel.png') repeat top left, url('../images/background-twitter.jpg');
 }
 
 
